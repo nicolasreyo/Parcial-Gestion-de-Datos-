@@ -72,6 +72,6 @@ Los estudiantes de padres cuentan con cada uno de las 6 valores, sin embargo, se
 
 7. ¿Qué porcentaje de los estudiantes obtuvieron puntajes iguales o superiores a 90 en las tres asignaturas? De estos estudiantes¿que porcentaje estudió para los exámenes?
 
-Solamente el 2.3% del total de los estudiantes sacaron 90 o mas en las tres asignaturas. 
+Solamente el 2.4% del total de los estudiantes sacaron 90 o mas en las tres asignaturas. 
 
 De estos estudiantes que sacaron 90 o mas en las tres asignaturas, el 56% se preparo para los examenes.
